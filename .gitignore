@@ -1,2 +1,15 @@
 .ipynb_checkpoints
 */.ipynb_checkpoints/*
+
+./Pandas/xls_files_all
+./Pandas/csv
+./Pandas/json
+./Pandas/sqlite
+
+./Pandas/PandasPythonForDataScience.pdf
+
+*.csv
+*.json
+*.xls
+*.xlsx
+*.sqlite
